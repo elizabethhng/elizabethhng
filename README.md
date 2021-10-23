@@ -1,5 +1,5 @@
-### Hi there 👋!
-
+### Hi there 👋
+Follow me on LinkedIn! https://www.linkedin.com/in/elizabethhng/
 
 <!--
 **elizabethhng/elizabethhng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
