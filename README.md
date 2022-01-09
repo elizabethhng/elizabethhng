@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently working on an Aerial Vehicle System with Vision that aids in the construction progress monitoring. I get to dabble with YoloV5, Pytorch, OpenCV, programming a Tello drone and hope to update this space once that project is completed! 
+I am currently working on an Aerial Vehicle System with Vision that aids in construction progress monitoring and works together with mobile robots on the ground. I get to dabble with YoloV5, Pytorch, OpenCV, programming a Tello drone and hope to update this space once that project is completed! 
 
 Follow me on LinkedIn! https://www.linkedin.com/in/elizabethhng/
 
